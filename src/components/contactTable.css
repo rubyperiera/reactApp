@@ -1,0 +1,40 @@
+.ctable {
+  font-size: 17px;
+  border-style: solid;
+  padding: 30px;
+  border-color: black;
+    }
+
+    .ctable,
+      .chead,
+      .ctr {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+
+  .chead {
+    padding:12px;
+    height: 28px;
+  }
+
+  .ctr{
+    height: 46px;
+    padding:12px;
+  }
+
+  .cdata{
+    color: blue;
+  }
+
+  
+
+
+
+  
+  
+
+
+  
+  
+  
+  
